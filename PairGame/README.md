@@ -1,7 +1,7 @@
 # Link to the website in the VM:
  - http://ml-lab-4d78f073-aa49-4f0e-bce2-31e5254052c7.ukwest.cloudapp.azure.com:63204/PairGame/index.php
  - NOTE: The website works as intended in local machine's google chrome, there are issues when using VM's firefox
- 
+
 # Navbar
  - Home, Play Pairs, Registered if the user is not registered
  - Home, Play Pairs, Leaderboard, custom emoji if registered

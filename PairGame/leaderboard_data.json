@@ -1,0 +1,40 @@
+{
+    "complex": [
+        {
+            "username": "Daniel",
+            "score": 863,
+            "timestamp": 1742252763,
+            "levels_completed": 3,
+            "level_scores": {
+                "1": 225,
+                "2": 238,
+                "3": 242
+            }
+        },
+        {
+            "username": "Sam",
+            "score": 597,
+            "timestamp": 1741462204,
+            "levels_completed": 2,
+            "level_scores": {
+                "1": 217,
+                "2": 248
+            }
+        },
+        {
+            "username": "Dom",
+            "score": 261,
+            "timestamp": 1742243590,
+            "levels_completed": 1,
+            "level_scores": {
+                "1": 229
+            }
+        },
+        {
+            "username": "Hemm",
+            "score": 0,
+            "timestamp": 1741992607,
+            "levels_completed": 0
+        }
+    ]
+}

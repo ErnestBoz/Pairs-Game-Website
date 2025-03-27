@@ -1,0 +1,27 @@
+/* Landing page styles */
+.welcome-message {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.welcome-message h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.play-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.play-button a {
+    color: white;
+    text-decoration: none;
+}
